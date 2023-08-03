@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black2">#1C1C1E</color>
+    <color name="black3">#B0B0B0</color>
+    <color name="black4">#7E7E7E</color>
+
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="white2">#F8F8F8</color>
+    <color name="white3">#E4E4E4</color>
+    <color name="white4">#CACACA</color>
+
+
+    <color name="fon_info">#FF8B00</color>
+
+
+
+
+    <color name="fon_background">#74ce1b</color>
+
+    <color name="fon_gradient_1">#5fe100</color>
+    <color name="fon_gradient_2">#a2dc00</color>
+
+
+    <color name="green">#6AA30C</color>
+    <color name="blue">#006EE3</color>
+</resources>
